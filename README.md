@@ -1,5 +1,7 @@
 # blue-whale-IBM
 
+[![DOI](https://zenodo.org/badge/685523396.svg)](https://zenodo.org/badge/latestdoi/685523396)
+
 Code used to run and analyze individual based model (IBM) output of Dodson et al. "Long-distance communication enables collective migration in a dynamic seascape"
 
 This project seeks to understand how long-distance communication plays a role in the southward breeding migration behaviors of Northern Pacific blue whales. 
