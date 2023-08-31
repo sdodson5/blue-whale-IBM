@@ -8,7 +8,8 @@
 close all; clear;
 
 % ROMS data
-nc_file_names = dir('~/Dropbox/NOAA/Stephanie/wc15n_avg_*.nc');  % Directory of ROMS files - will list in order of year
+FILE_NAME = 'add_path_here'; %% Add path to ROMS file names
+nc_file_names = dir(FILE_NAME);  % Directory of ROMS files - will list in order of year
 years = 1990:2010;
 
 % Run parameters
