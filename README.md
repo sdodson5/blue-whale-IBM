@@ -13,6 +13,10 @@ Fiechter, Jerome (2021). Data from: Krill hotspot formation and phenology in the
 ## Repository contents:
 Code:
 - Code to run IBM and generate raw output files.
+- Code to create figures in the main text
+
+Summary_data: 
+- Summary files that contain information needed to produce figures. Summary files derived from raw output files.
 
 
 
